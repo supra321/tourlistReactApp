@@ -1,4 +1,4 @@
-export const placelists = [
+export const Placelists = [
   {
     id: 1,
     destination: 'Srinagar',

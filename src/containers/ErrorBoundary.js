@@ -11,9 +11,9 @@ class ErrorBoundary extends Component{
 	}
 	render(){
 		if(this.state.ErrorState){
-			return <h1>Oops Could not Load Contents.Try Again Later</h1>
+			return <h1 className='f-3 tc'>Oops Could not Load Contents.Try Again Later</h1>
 		}
-		return this.props.children
+		return this.props.children;
 	}
 }
 export default ErrorBoundary;

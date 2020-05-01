@@ -2,31 +2,41 @@ export const Placelists = [
   {
     id: 1,
     destination: 'Srinagar',
+    state: 'Jammu and Kashmir',
     pakage: '18 Tours & Activity',
+    pdf: 'https://supra321.github.io/Srinagar.pdf',
     image: 'https://www.holidify.com/images/bgImages/SRINAGAR.jpg'
   },
   {
     id: 2,
     destination: 'Sravasti',
+    state: 'Uttar Pradesh',
     pakage: '14 Tours & Activity',
-    image: 'http://www.wishboneindia.com/wp-content/uploads/2016/02/Sravasti.jpg'
+    pdf: 'https://supra321.github.io/Sravasti.pdf',
+    image: 'https://www.holidify.com/images/bgImages/SHRAVASTI.jpg'
   },
   {
     id: 3,
     destination: 'Darjeeling',
+    state: 'West Bengal',
     pakage: '20 Tours & Activity',
+    pdf: 'https://supra321.github.io/Darjeeling.pdf',
     image: 'https://www.holidify.com/images/bgImages/DARJEELING.jpg'
   },
   {
     id: 4,
     destination: 'Hyderabad',
+    state: 'Telangana',
     pakage: '25 Tours & Activity',
+    pdf: 'https://supra321.github.io/Hyderabad.pdf',
     image: 'https://www.holidify.com/images/bgImages/HYDERABAD.jpg'
   },
   {
     id: 5,
     destination: 'Shimla',
+    state: 'Himachal Pradesh',
     pakage: '18 Tours & Activity',
+    pdf: 'https://supra321.github.io/Shimla.pdf',
     image: 'https://www.holidify.com/images/bgImages/KUFRI.jpg'
   }/*,
   {

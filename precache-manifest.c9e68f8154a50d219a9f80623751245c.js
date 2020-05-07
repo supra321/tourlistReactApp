@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05e7a7b223fef246bbd005cb8f472a2a",
+    "revision": "475402da4d53f8f9e72e8a3dbd624526",
     "url": "/tourlistReactApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourlistReactApp/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "cc112d2116ae147d8d6f",
+    "revision": "5faa70769126ab340d4f",
     "url": "/tourlistReactApp/static/css/main.d29856f5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourlistReactApp/static/js/2.89d40c38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc112d2116ae147d8d6f",
-    "url": "/tourlistReactApp/static/js/main.201525a5.chunk.js"
+    "revision": "5faa70769126ab340d4f",
+    "url": "/tourlistReactApp/static/js/main.c47868d6.chunk.js"
   },
   {
     "revision": "6b39e0bcb5e559b0c90d",

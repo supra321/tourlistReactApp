@@ -33,7 +33,7 @@ class App extends Component{
 		})
 		return (
 			<div className='tc'>
-				<h1 className='f-5'>Tour Gallary</h1>
+				<h1 className='f-5'>Tour Gallery</h1>
 				<Searchbar1 onSearchChange={this.onSearchChangeState} />
 				<Searchbar onSearchChange={this.onSearchChangeDestination} />
 				<br/>
